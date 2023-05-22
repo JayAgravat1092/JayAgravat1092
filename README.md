@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayAgravat1092 
-- 👀 I’m interested in learning D.S.A.
+- 👀 I’m interested in learning Data Science.
 - 🌱 I’m currently learning C.S.E at Marwadi University 
 - 🆕 I’m looking to work/learn with students & seniors.
 - 📫 To reach me email on: jayagravat1092@gmail.com
